@@ -1,0 +1,34 @@
+body{
+    background-image: url(churrasco.jpg);
+    background-size: cover;
+}
+
+.container{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width:300px;
+    margin: auto;
+    background-image: url(amadeirado.jpg);
+    background-size: cover;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#titulo1{
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#titulo2{
+    margin-top: 0;
+    text-align: center;
+}
